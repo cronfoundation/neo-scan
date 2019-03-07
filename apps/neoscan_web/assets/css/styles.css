@@ -372,7 +372,7 @@ a:hover {
 ******************************************/
 
 /* All FA */
-.fa-cube, .fa-cubes, .fa-key, .fa-signal, .fa-id-card, .fa-paper-plane, .fa-list-alt, .fa-user-circle-o, .fa-handshake-o, .fa-university, .fa-exchange {
+.fa-cube, .fa-cubes, .fa-key, .fa-signal, .fa-id-card, .fa-paper-plane, .fa-list-alt, .fa-user-circle-o, .fa-handshake-o, .fa-university, .fa-exchange, .fa-cron, .fa-cronium {
   font-size: 14px;
   /* Overrides white colour of standard fa items */
   margin-right: 10px;
@@ -423,6 +423,15 @@ a:hover {
 	color: #FFE859 !important;
 }
 
+.fa-cron {
+  color: #4286f4 !important;
+}
+
+.fa-cronium {
+  color: #00A62C !important;
+}
+
+
 
 /******************************************
 
@@ -437,14 +446,14 @@ a:hover {
   position: relative;
 }
 #navigation .logo-wrapper {
-  width: 15%;
+  width: 10%;
   height: 78px;
   border-right: 1px solid #35356b;
   float: left;
   box-sizing: border-box;
 }
 #navigation .logo-wrapper .neoscan-logo {
-  width: 75%;
+  width: 32px;
   margin: 23px auto 0;
 }
 #navigation input[type=search] {

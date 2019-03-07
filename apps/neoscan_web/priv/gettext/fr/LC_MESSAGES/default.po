@@ -82,8 +82,8 @@ msgstr "Terminé le"
 msgid "Contract"
 msgstr "Contrat"
 
-msgid "Gas Claim"
-msgstr "Gas réclamé"
+msgid "CRON Claim"
+msgstr "CRON réclamé"
 
 msgid "Invocation"
 msgstr "Invocation"
@@ -106,8 +106,8 @@ msgstr "Revendiqué à partir de"
 msgid "Sent to"
 msgstr "Envoyé à"
 
-msgid "GAS"
-msgstr "GAS"
+msgid "CRON"
+msgstr "CRON"
 
 msgid "Data Size"
 msgstr "Taille des données"
@@ -190,8 +190,8 @@ msgstr "Le code source est"
 msgid "The website content is licensed"
 msgstr "Le contenu du site est sous licence "
 
-msgid "NEOSCAN API"
-msgstr "NEOSCAN API"
+msgid "CRONSCAN API"
+msgstr "CRONSCAN API"
 
 msgid "City of Zion Github"
 msgstr "City of Zion Github"
@@ -217,11 +217,11 @@ msgstr "Attributs bytecode"
 msgid "Usage"
 msgstr "Usage"
 
-msgid "Welcome to NEOSCAN"
-msgstr "Bienvenue sur NEOSCAN"
+msgid "Welcome to CRONSCAN"
+msgstr "Bienvenue sur CRONSCAN"
 
-msgid "Your home for all NEO related blockchain information"
-msgstr "Votre portail pour toutes les informations liées à la blockchain NEO"
+msgid "Your home for all CRON related blockchain information"
+msgstr "Votre portail pour toutes les informations liées à la blockchain CRON"
 
 msgid "Total transactions"
 msgstr "Total des transactions"

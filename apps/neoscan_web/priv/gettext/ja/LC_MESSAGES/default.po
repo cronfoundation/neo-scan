@@ -82,8 +82,8 @@ msgstr "完了"
 msgid "Contract"
 msgstr "契約"
 
-msgid "Gas Claim"
-msgstr "GAS請求"
+msgid "CRON Claim"
+msgstr "CRON請求"
 
 msgid "Invocation"
 msgstr "起動"
@@ -106,8 +106,8 @@ msgstr "発信元"
 msgid "Sent to"
 msgstr "送信先"
 
-msgid "GAS"
-msgstr "GAS"
+msgid "CRON"
+msgstr "CRON"
 
 msgid "Data Size"
 msgstr "データ容量"
@@ -190,8 +190,8 @@ msgstr "情報源は"
 msgid "The website content is licensed"
 msgstr "このウェブサイトにあるコンテンツは許可されている"
 
-msgid "NEOSCAN API"
-msgstr "NEOSCAN API"
+msgid "CRONSCAN API"
+msgstr "CRONSCAN API"
 
 msgid "City of Zion Github"
 msgstr "City of Zion Github"
@@ -217,14 +217,14 @@ msgstr "バイトコードに属する"
 msgid "Usage"
 msgstr "使用可能量"
 
-msgid "Welcome to NEOSCAN"
-msgstr "ようこそNEOSCANへ"
+msgid "Welcome to CRONSCAN"
+msgstr "ようこそCRONSCANへ"
 
-msgid "Your home for all NEO related blockchain information"
-msgstr "あなたの全てのNEOについてのホームはブロックチェーン情報に関連する"
+msgid "Your home for all CRON related blockchain information"
+msgstr "あなたの全てのCRONについてのホームはブロックチェーン情報に関連する"
 
-msgid "Your home for all blockchain related information for NEO"
-msgstr "あなたの全てのブロックチェーンについてのホームははNEOの情報に関連する"
+msgid "Your home for all blockchain related information for CRON"
+msgstr "あなたの全てのブロックチェーンについてのホームははCRONの情報に関連する"
 
 msgid "Total transactions"
 msgstr "全取引"

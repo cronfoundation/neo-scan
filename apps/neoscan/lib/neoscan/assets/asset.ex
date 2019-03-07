@@ -37,8 +37,8 @@ defmodule Neoscan.Asset do
     %{asset | name: filter_name(asset.name)}
   end
 
-  def filter_name(%{"en" => "AntShare"}), do: "NEO"
-  def filter_name(%{"en" => "AntCoin"}), do: "GAS"
+  def filter_name(%{"en" => "AntShare"}), do: "CRONIUM"
+  def filter_name(%{"en" => "AntCoin"}), do: "CRON"
   def filter_name(%{"en" => name}), do: name
   def filter_name(map), do: hd(Map.values(map))
 

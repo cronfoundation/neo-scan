@@ -25,10 +25,10 @@ export const formatBTCLarge = (num) => {
 
 export function getClass (type) {
   if (type === 'contract_transaction') {
-    return 'neo-transaction'
+    return 'cronium-transaction'
   }
   if (type === 'claim_transaction') {
-    return 'gas-transaction'
+    return 'cron-transaction'
   }
   if (type === 'miner_transaction') {
     return 'miner-transaction'
@@ -58,7 +58,7 @@ export function getName (type) {
     return 'Contract'
   }
   if (type === 'claim_transaction') {
-    return 'GAS Claim'
+    return 'CRON Claim'
   }
   if (type === 'miner_transaction') {
     return 'Miner'
@@ -85,10 +85,10 @@ export function getName (type) {
 
 export function getIcon (type) {
   if (type === 'contract_transaction') {
-    return 'fa-cube'
+    return 'fa-cronium'
   }
   if (type === 'claim_transaction') {
-    return 'fa-cubes'
+    return 'fa-cron'
   }
   if (type === 'miner_transaction') {
     return 'fa-user-circle-o'
@@ -100,7 +100,7 @@ export function getIcon (type) {
     return 'fa-handshake-o'
   }
   if (type === 'publish_transaction') {
-    return 'fa-cube'
+    return 'fa-cronium'
   }
   if (type === 'invocation_transaction') {
     return 'fa-paper-plane'

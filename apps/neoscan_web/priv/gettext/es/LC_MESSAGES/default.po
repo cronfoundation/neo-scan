@@ -258,23 +258,23 @@ msgstr "Explorador"
 #: lib/neoscan_web/templates/home/index.html.eex:67
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:139
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:139
-msgid "GAS"
-msgstr "GAS"
+msgid "CRON"
+msgstr "CRON"
 
 #: lib/neoscan_web/templates/address/address.html.eex:18
-msgid "GAS Balance"
-msgstr "Balance de GAS"
+msgid "CRON Balance"
+msgstr "Balance de CRON"
 
 #: lib/neoscan_web/templates/address/address.html.eex:64
 #: lib/neoscan_web/templates/asset/asset.html.eex:147
 #: lib/neoscan_web/templates/block/block.html.eex:83
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:42
-msgid "Gas Claim"
-msgstr "Reclamo de GAS"
+msgid "CRON Claim"
+msgstr "Reclamo de CRON"
 
 #: lib/neoscan_web/templates/block/block.html.eex:56
-msgid "Generated GAS"
-msgstr "Generado GAS"
+msgid "Generated CRON"
+msgstr "Generado CRON"
 
 #: lib/neoscan_web/templates/home/index.html.eex:70
 msgid "Graph Zoom"
@@ -334,8 +334,8 @@ msgid "Last transactions"
 msgstr "Últimas transacciones"
 
 #: lib/neoscan_web/templates/address/address.html.eex:21
-msgid "Loading Unclaimed Gas"
-msgstr "Cargando Gas No Reclamado"
+msgid "Loading Unclaimed CRON"
+msgstr "Cargando CRON No Reclamado"
 
 #: lib/neoscan_web/templates/block/block.html.eex:41
 msgid "Merkle root"
@@ -355,12 +355,12 @@ msgstr "Más detalles"
 #: lib/neoscan_web/templates/addresses/addresses.html.eex:47
 #: lib/neoscan_web/templates/home/index.html.eex:43
 #: lib/neoscan_web/templates/home/index.html.eex:66
-msgid "NEO"
-msgstr "NEO"
+msgid "CRONIUM"
+msgstr "CRONIUM"
 
 #: lib/neoscan_web/templates/address/address.html.eex:14
-msgid "NEO Balance"
-msgstr "Balance de NEO"
+msgid "CRONIUM Balance"
+msgstr "Balance de CRONIUM"
 
 #: lib/neoscan_web/templates/layout/app.html.eex:120
 #: lib/neoscan_web/templates/layout/app.html.eex:120
@@ -371,19 +371,19 @@ msgstr "NEO Slack"
 #: lib/neoscan_web/templates/layout/app.html.eex:132
 #: lib/neoscan_web/templates/layout/app.html.eex:132
 #: lib/neoscan_web/templates/layout/app.html.eex:132
-msgid "NEOSCAN API"
-msgstr "API NEOSCAN"
+msgid "CRONSCAN API"
+msgstr "API CRONSCAN"
 
 #: lib/neoscan_web/templates/layout/app.html.eex:63
 #: lib/neoscan_web/templates/layout/app.html.eex:63
-msgid "NEOSCAN Home"
-msgstr "Inicio NEOSCAN"
+msgid "CRONSCAN Home"
+msgstr "Inicio CRONSCAN"
 
 #: lib/neoscan_web/templates/layout/app.html.eex:120
 #: lib/neoscan_web/templates/layout/app.html.eex:120
 #: lib/neoscan_web/templates/layout/app.html.eex:120
-msgid "NEOSCAN Testnet"
-msgstr "Testnet NEOSCAN"
+msgid "CRONSCAN Testnet"
+msgstr "Testnet CRONSCAN"
 
 #: lib/neoscan_web/templates/asset/asset.html.eex:16
 msgid "Name"
@@ -667,12 +667,12 @@ msgid "Wallet addresses created"
 msgstr "Direcciones de billetera creadas"
 
 #: lib/neoscan_web/templates/home/index.html.eex:3
-msgid "Welcome to NEOSCAN"
-msgstr "Bienvenido a NEOSCAN"
+msgid "Welcome to CRONSCAN"
+msgstr "Bienvenido a CRONSCAN"
 
 #: lib/neoscan_web/templates/home/index.html.eex:4
-msgid "Your home for all NEO related blockchain information"
-msgstr "Su hogar para toda la información de blockchain relacionada con NEO"
+msgid "Your home for all CRON related blockchain information"
+msgstr "Su hogar para toda la información de blockchain relacionada con CRON"
 
 #: lib/neoscan_web/templates/block/block.html.eex:52
 #: lib/neoscan_web/templates/blocks/blocks.html.eex:32

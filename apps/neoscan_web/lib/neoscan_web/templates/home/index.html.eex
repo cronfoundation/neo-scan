@@ -1,7 +1,7 @@
 
 <!-- Welcome -->
-<h1 class="content-title"><%= gettext "Welcome to NEOSCAN" %></h1>
-<p class="content-subline"><%= gettext "Your home for all NEO related blockchain information" %></p>
+<h1 class="content-title"><%= gettext "Welcome to CRONSCAN" %></h1>
+<p class="content-subline"><%= gettext "Your home for all CRON related blockchain information" %></p>
 
 <!-- Search input -->
 <!-- <div class="hero-input-container">
@@ -38,45 +38,6 @@
 </section>
 
 <!-- Market graph -->
-<section id="market-graph">
-  <div class="individual-graph-box remove-border-right-555px">
-    <p id="mkt-graph-coin" class="large-detail-text stat-detail"><%= gettext "NEO" %></p>
-    <p class="large-stat-number remove-margin-bottom" id="mkt-graph-coin-price"></p>
-  </div>
-  <div class="individual-graph-box remove-border-right-920px">
-    <p class="large-detail-text stat-detail"><%= gettext "Current market cap" %></p>
-    <p class="large-stat-number remove-margin-bottom" id="mkt-cap-us"></p>
-  </div>
-  <div class="individual-graph-box remove-border-right-555px">
-    <p class="large-detail-text stat-detail"><%= gettext "24 hour change" %></p>
-    <p id="24hchange"></p>
-  </div>
-  <div class="individual-graph-box last">
-    <p class="large-detail-text stat-detail"><%= gettext "24 hour volume" %></p>
-    <p id="24hvol"></p>
-  </div>
-  <div id="chart-controls">
-    <div class="currency-wrapper">
-      <div class="chart-controls-label"><%= gettext "Currency" %></div>
-      <div id="usd-chart" class="btn btn-primary radio-btn radio-active"><%= gettext "USD" %></div>
-      <div id="btc-chart" class="btn btn-primary second-btn radio-btn"><%= gettext "BTC" %></div>
-    </div>
-    <div class="token-wrapper">
-      <div class="chart-controls-label"><%= gettext "Token" %></div>
-      <div id="neo-chart" class="btn btn-primary radio-btn radio-active"><%= gettext "NEO" %></div>
-      <div id="gas-chart" class="btn btn-primary second-btn radio-btn"><%= gettext "GAS" %></div>
-    </div>
-    <div class="zoom-wrapper">
-      <div class="chart-controls-label"><%= gettext "Graph Zoom" %></div>
-      <div id="zoom-out-chart" class="btn btn-primary zoom-btn"><i class="fa fa-search-minus" aria-hidden="true"></i></div>
-      <div id="zoom-in-chart" class="btn btn-primary second-btn zoom-btn"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
-    </div>
-  </div>
-  <div class="chart-container">
-    <div id="market-chart"></div>
-  </div>
-</section>
-
 <!-- Transactions -->
 <h2><%= gettext "Last 5 Transactions" %></h2>
 <section id="all-transactions-wrapper">

@@ -82,8 +82,8 @@ msgstr "完成于"
 msgid "Contract"
 msgstr "合约"
 
-msgid "Gas Claim"
-msgstr "提现 GAS"
+msgid "CRON Claim"
+msgstr "提现 CRON"
 
 msgid "Invocation"
 msgstr "调用"
@@ -106,8 +106,8 @@ msgstr "提现于"
 msgid "Sent to"
 msgstr "发给"
 
-msgid "GAS"
-msgstr "GAS"
+msgid "CRON"
+msgstr "CRON"
 
 msgid "Data Size"
 msgstr "数据块大小"
@@ -190,8 +190,8 @@ msgstr "源代码是"
 msgid "The website content is licensed"
 msgstr "网站内容有执照"
 
-msgid "NEOSCAN API"
-msgstr "NEOSCAN API"
+msgid "CRONSCAN API"
+msgstr "CRONSCAN API"
 
 msgid "City of Zion Github"
 msgstr "City of Zion Github"
@@ -217,14 +217,14 @@ msgstr "字节码属性"
 msgid "Usage"
 msgstr "用法"
 
-msgid "Welcome to NEOSCAN"
-msgstr "欢迎来到 NEOSCAN"
+msgid "Welcome to CRONSCAN"
+msgstr "欢迎来到 CRONSCAN"
 
-msgid "Your home for all NEO related blockchain information"
-msgstr "这里是NEO区块链信息之家"
+msgid "Your home for all CRON related blockchain information"
+msgstr "这里是CRON区块链信息之家"
 
-msgid "Your home for all blockchain related information for NEO"
-msgstr "这里是你找到与NEO相关的所有区块链信息的大本营"
+msgid "Your home for all blockchain related information for CRON"
+msgstr "这里是你找到与CRON相关的所有区块链信息的大本营"
 
 msgid "Total transactions"
 msgstr "所有交易"

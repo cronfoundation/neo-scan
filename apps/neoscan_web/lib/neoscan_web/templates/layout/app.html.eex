@@ -1,9 +1,10 @@
+
 <!DOCTYPE>
 
 <html lang="en">
 <head>
 <meta charset="utf-8">
-	<title>NEOSCAN | <%= get_page(@conn) %></title>
+	<title>CRONSCAN | <%= get_page(@conn) %></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="format-detection" content="telephone=no"/>
 	<meta name="mobile-web-app-capable" content="yes">
@@ -14,11 +15,11 @@
 	<link href="<%= static_path(@conn, "/css/app.css") %>" rel="stylesheet">
 
 	<!-- Open graph protocol data -->
-	<meta property="og:title" content="NeoScan - NEO Blockchain Explorer" />
+	<meta property="og:title" content="CronScan - CRON Blockchain Explorer" />
 	<meta property="og:url" content="[neoscan.io]" />
 	<meta property="og:type" content="website" />
-	<meta property="og:description" content="A blockchain explorer for the NEO project. Track blocks, addresses, balances, transactions, NEO, GAS and other assets on the platform." />
-	<meta property="og:image" content="<%= static_path(@conn, "/images/coz.png") %>" />
+	<meta property="og:description" content="A blockchain explorer for the CRON project. Track blocks, addresses, balances, transactions, CRON, CRONIUM and other assets on the platform." />
+	<!-- <meta property="og:image" content="<%= static_path(@conn, "/images/coz.png") %>" /> -->
 
 	<!-- Font imports: Orbitron, Source Sans Pro, Teko -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i,700,700i|Teko:300,500" rel="stylesheet">
@@ -61,8 +62,8 @@
 
 			<!-- Logo -->
 			<div class="logo-wrapper">
-        <a href="/" alt="NEOSCAN Home">
-          <img src="<%= static_path(@conn, "/images/NEOSCAN_Logo.svg") %>" alt="<%= gettext "NEOSCAN Home" %>" title="<%= gettext "NEOSCAN Home" %>" width="163px" height="32px" class="neoscan-logo" />
+        <a href="/" alt="CRONSCAN Home">
+          <img src="<%= static_path(@conn, "/images/cron.png") %>" alt="<%= gettext "CRONSCAN Home" %>" title="<%= gettext "CRONSCAN Home" %>" width="32px" height="32px" class="neoscan-logo" />
         </a>
 			</div>
 
@@ -110,14 +111,14 @@
 		<footer id="footer">
 			<div class="footer-content-wrapper">
 				<div class="left-footer-information">
-					<img src="<%= static_path(@conn, "/images/NEOSCAN_Logo.svg") %>" alt="NEOSCAN Home" title="NEOSCAN Home" class="neoscan-logo-footer" width="136px" height="27px" />
+					<!-- <img src="<%= static_path(@conn, "/images/NEOSCAN_Logo.svg") %>" alt="NEOSCAN Home" title="NEOSCAN Home" class="neoscan-logo-footer" width="136px" height="27px" /> -->
 					<p class="medium-detail-text"><%= gettext "The source code is" %> <a href="http://opensource.org/licenses/mit-license.php" alt="<%= gettext "View MIT License"%>" title="<%= gettext "View MIT License"%>" class="large-blue-link"><%= gettext "licensed" %> MIT</a></li>
 					<p class="medium-detail-text"><%= gettext "The website content is licensed" %> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" alt="CC ANS 4.0" title="CC ANS 4.0" class="large-blue-link">CC ANS 4.0</a></p>
-					<p class="medium-detail-text"><a href="https://neoscan-testnet.io/" alt="<%= gettext "NEOSCAN Testnet"%>" title="<%= gettext "NEOSCAN Testnet"%>" class="large-blue-link"><%= gettext "NEOSCAN Testnet" %></a></p>
-					<p class="medium-detail-text">&copy; 2018 <a href="http://cityofzion.io/" alt="<%= gettext "Visit City of Zion"%>" title="<%= gettext "Visit City of Zion"%>" class="large-blue-link"><%= gettext "City Of Zion" %></a></p>
+					<!-- <p class="medium-detail-text"><a href="https://neoscan-testnet.io/" alt="<%= gettext "NEOSCAN Testnet"%>" title="<%= gettext "NEOSCAN Testnet"%>" class="large-blue-link"><%= gettext "NEOSCAN Testnet" %></a></p> -->
+					<p class="medium-detail-text">This site wouldn't be possible without &copy; 2019 <a href="http://cityofzion.io/" alt="<%= gettext "This site wouldn't be possible without"%>" title="<%= gettext "This site wouldn't be possible without"%>" class="large-blue-link"><%= gettext "City Of Zion" %></a></p>
 				</div>
 
-				<div class="right-footer-information">
+				<!-- <div class="right-footer-information">
 					<div class="footer-link-wrapper">
 						<a href="https://discord.gg/Md676aR" alt="<%= gettext "NEO Discord"%>" title="<%= gettext "NEO Discord"%>" class="coz-discord"><%= gettext "NEO Discord" %></a>
 					</div>
@@ -133,7 +134,7 @@
               <%= if get_tooltips(@conn) == "off" do %><%= gettext "Tooltips Off " %><i class="fa fa-eye-slash tooltip-eye" aria-hidden="true"></i><% end %>
             </div>
           </div>
-				</div>
+				</div>-->
 			</div>
 		</footer>
 

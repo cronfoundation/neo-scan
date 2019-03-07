@@ -53,7 +53,7 @@
       <span class="tooltiptext"><%= get_explanation("block_size") %></span>
     </li>
     <li class="remove-border-bottom-660px tooltip <%= if get_tooltips(@conn) == "on" do %>add-hover<% end %>">
-      <p class="small-detail-text"><%= gettext "Generated GAS"%></p>
+      <p class="small-detail-text"><%= gettext "Generated CRON"%></p>
       <p class="large-detail-text"><%= @block.gas_generated %></p>
     </li>
   </ul>

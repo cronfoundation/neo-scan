@@ -85,8 +85,8 @@ msgstr "Completado em"
 msgid "Contract"
 msgstr "Contrato"
 
-msgid "Gas Claim"
-msgstr "Resgate de Gas"
+msgid "CRON Claim"
+msgstr "Resgate de CRON "
 
 msgid "Invocation"
 msgstr "Invocação"
@@ -109,7 +109,7 @@ msgstr "Resgatado de"
 msgid "Sent to"
 msgstr "Enviado para"
 
-msgid "GAS"
+msgid "CRON "
 msgstr ""
 
 msgid "Data Size"
@@ -208,7 +208,7 @@ msgstr "Esse código fonte é"
 msgid "The website content is licensed"
 msgstr "O conteúdo desse site é licenciado"
 
-msgid "NEOSCAN API"
+msgid "CRONSCAN API"
 msgstr ""
 
 msgid "City of Zion Github"
@@ -217,8 +217,8 @@ msgstr ""
 msgid "NEO Slack"
 msgstr ""
 
-msgid "NEO Balance"
-msgstr "Saldo de NEO"
+msgid "CRONIUM Balance"
+msgstr "Saldo de CRONIUM"
 
 msgid "Block Information"
 msgstr "Informações do Bloco"
@@ -232,8 +232,8 @@ msgstr "Próximo Bloco"
 msgid "Previous block"
 msgstr "Bloco Anterior"
 
-msgid "Generated GAS"
-msgstr "GAS Gerado"
+msgid "Generated CRON "
+msgstr "CRON Gerado"
 
 msgid "Validator"
 msgstr "Verificador"
@@ -250,14 +250,14 @@ msgstr "Voltar Para Todos os Ativos"
 msgid "Last 5 Wallet Addresses"
 msgstr "Últimos 5 Endereços"
 
-msgid "Loading Unclaimed Gas"
-msgstr "Carregando GAS disponível"
+msgid "Loading Unclaimed CRON"
+msgstr "Carregando CRON disponível"
 
-msgid "Unclaimed Gas"
-msgstr "GAS disponível"
+msgid "Unclaimed CRON"
+msgstr "CRON disponível"
 
-msgid "GAS Balance"
-msgstr "Saldo de GAS"
+msgid "CRON Balance"
+msgstr "Saldo de CRON"
 
 msgid "Back to all transactions"
 msgstr "Voltar para Todas as Transações"
@@ -280,11 +280,11 @@ msgstr "Uso"
 msgid "Height"
 msgstr "Index"
 
-msgid "Welcome to NEOSCAN"
-msgstr "Bem Vindo ao NEOSCAN"
+msgid "Welcome to CRONSCAN"
+msgstr "Bem Vindo ao CRONSCAN"
 
-msgid "Your home for all NEO related blockchain information"
-msgstr "Seu lugar para informações sobre a NEO Blockchain"
+msgid "Your home for all CRON related blockchain information"
+msgstr "Seu lugar para informações sobre a CRON Blockchain"
 
 msgid "Block Height, Hash, Address or Transaction id"
 msgstr "Index de Bloco, Hash, Endereço ou ID da Transação"

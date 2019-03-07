@@ -251,22 +251,22 @@ msgstr ""
 #: lib/neoscan_web/templates/home/index.html.eex:67
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:114
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:114
-msgid "GAS"
+msgid "CRON"
 msgstr ""
 
 #: lib/neoscan_web/templates/address/address.html.eex:18
-msgid "GAS Balance"
+msgid "CRON Balance"
 msgstr ""
 
 #: lib/neoscan_web/templates/address/address.html.eex:57
 #: lib/neoscan_web/templates/asset/asset.html.eex:143
 #: lib/neoscan_web/templates/block/block.html.eex:83
 #: lib/neoscan_web/templates/transactions/transactions.html.eex:41
-msgid "Gas Claim"
+msgid "CRON Claim"
 msgstr ""
 
 #: lib/neoscan_web/templates/block/block.html.eex:56
-msgid "Generated GAS"
+msgid "Generated CRON"
 msgstr ""
 
 #: lib/neoscan_web/templates/home/index.html.eex:70
@@ -348,11 +348,11 @@ msgstr ""
 #: lib/neoscan_web/templates/addresses/addresses.html.eex:47
 #: lib/neoscan_web/templates/home/index.html.eex:43
 #: lib/neoscan_web/templates/home/index.html.eex:66
-msgid "NEO"
+msgid "CRONIUM"
 msgstr ""
 
 #: lib/neoscan_web/templates/address/address.html.eex:14
-msgid "NEO Balance"
+msgid "CRONIUM Balance"
 msgstr ""
 
 #: lib/neoscan_web/templates/layout/app.html.eex:120
@@ -364,12 +364,12 @@ msgstr ""
 #: lib/neoscan_web/templates/layout/app.html.eex:126
 #: lib/neoscan_web/templates/layout/app.html.eex:126
 #: lib/neoscan_web/templates/layout/app.html.eex:126
-msgid "NEOSCAN API"
+msgid "CRONSCAN API"
 msgstr ""
 
 #: lib/neoscan_web/templates/layout/app.html.eex:60
 #: lib/neoscan_web/templates/layout/app.html.eex:60
-msgid "NEOSCAN Home"
+msgid "CRONSCAN Home"
 msgstr ""
 
 #: lib/neoscan_web/templates/layout/app.html.eex:114
@@ -656,11 +656,11 @@ msgid "Wallet addresses created"
 msgstr ""
 
 #: lib/neoscan_web/templates/home/index.html.eex:3
-msgid "Welcome to NEOSCAN"
+msgid "Welcome to CRONSCAN"
 msgstr ""
 
 #: lib/neoscan_web/templates/home/index.html.eex:4
-msgid "Your home for all NEO related blockchain information"
+msgid "Your home for all CRON related blockchain information"
 msgstr ""
 
 #: lib/neoscan_web/templates/block/block.html.eex:52

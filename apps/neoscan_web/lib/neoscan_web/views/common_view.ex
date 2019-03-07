@@ -5,7 +5,7 @@ defmodule NeoscanWeb.CommonView do
   alias NeoVM.Disassembler
 
   def get_transaction_name("contract_transaction"), do: "Contract"
-  def get_transaction_name("claim_transaction"), do: "Gas Claim"
+  def get_transaction_name("claim_transaction"), do: "CRON Claim"
   def get_transaction_name("invocation_transaction"), do: "Invocation"
   def get_transaction_name("enrollment_transaction"), do: "Enrollment"
   def get_transaction_name("state_transaction"), do: "State"
@@ -14,18 +14,18 @@ defmodule NeoscanWeb.CommonView do
   def get_transaction_name("publish_transaction"), do: "Contract Publish"
   def get_transaction_name("miner_transaction"), do: "Miner"
 
-  def get_transaction_style("contract_transaction"), do: "fa-cube"
-  def get_transaction_style("claim_transaction"), do: "fa-cubes"
+  def get_transaction_style("contract_transaction"), do: "fa-cronium"
+  def get_transaction_style("claim_transaction"), do: "fa-cron"
   def get_transaction_style("invocation_transaction"), do: "fa-paper-plane"
   def get_transaction_style("enrollment_transaction"), do: "fa-paper-plane"
   def get_transaction_style("state_transaction"), do: "fa-paper-plane"
   def get_transaction_style("issue_transaction"), do: "fa-handshake-o"
   def get_transaction_style("register_transaction"), do: "fa-list-alt"
-  def get_transaction_style("publish_transaction"), do: "fa-cube"
+  def get_transaction_style("publish_transaction"), do: "fa-cronium"
   def get_transaction_style("miner_transaction"), do: "fa-user-circle-o"
 
-  def get_class("contract_transaction"), do: "neo-transaction"
-  def get_class("claim_transaction"), do: "gas-transaction"
+  def get_class("contract_transaction"), do: "cronium-transaction"
+  def get_class("claim_transaction"), do: "cron-transaction"
   def get_class("invocation_transaction"), do: "invocation-transaction"
   def get_class("enrollment_transaction"), do: "invocation-transaction"
   def get_class("state_transaction"), do: "invocation-transaction"
@@ -56,8 +56,8 @@ defmodule NeoscanWeb.CommonView do
 
   def check_last(page, total), do: page * 15 < total
 
-  def render_asset_style("utility_token"), do: "fa-cubes"
-  def render_asset_style("governing_token"), do: "fa-cube"
+  def render_asset_style("utility_token"), do: "fa-cron"
+  def render_asset_style("governing_token"), do: "fa-cronium"
   def render_asset_style(_), do: "fa-university"
 
   def render_hash(hash), do: Base.encode16(hash, case: :lower)
